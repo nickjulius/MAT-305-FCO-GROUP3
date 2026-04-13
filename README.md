@@ -16,4 +16,4 @@ The study applies quantitative analysis, descriptive statistics, and multiple li
 2. Set the working directory to the project folder
 3. Run the main script:
  ```mathlab```
-`MATLAB.m`
+`Tiktok_matlab.m`
